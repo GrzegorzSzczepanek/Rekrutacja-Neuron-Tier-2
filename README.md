@@ -13,7 +13,7 @@ Warto tez README potraktować jako wizytówkę waszego projektu i miejsce, gdzie
 
 ## Ocena
 
-Po pierwsze stwórzcie sobie prywatne repo i zaproście mnie (nick na gitubie i email macie) do niego, bym mógł mieć dostęp do waszych rozwiązań.
+Po pierwsze stwórzcie sobie repo i zaproście mnie (nick na gitubie i email macie) do niego, bym mógł mieć dostęp do waszych rozwiązań.
 Pierwszorzędne znaczenie ma wasze podejście do problemu, jakość kodu, oraz EDA. Wyniki nie będą miały znaczenia przy ocenie.
 
 ## Informacje o danych
